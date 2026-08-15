@@ -31,7 +31,7 @@ A Java productivity app that connects tasks and focus sessions with a virtual co
 
 `Java 17` `OOP` `JUnit 5` `Maven`
 
-### [Portfolio](https://victoriaoyedotun.github.io/victoria-portfolio/)
+### [Portfolio](https://victoriaoyedotun.com/)
 
 My project portfolio, with deeper context on the problems I worked on, the decisions I made, and what I learned along the way.
 
@@ -47,6 +47,6 @@ My project portfolio, with deeper context on the problems I worked on, the decis
 
 ## Let’s connect
 
-- [Portfolio](https://victoriaoyedotun.github.io/victoria-portfolio/)
+- [Portfolio](https://victoriaoyedotun.com/)
 - [LinkedIn](https://www.linkedin.com/in/victoriaoyedotun/)
 - [Email](mailto:oyedotunvictoria@gmail.com)
