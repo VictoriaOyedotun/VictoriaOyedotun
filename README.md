@@ -1,6 +1,6 @@
 # Victoria Oyedotun
 
-I’m a full-stack software developer based in Manitoba, Canada. I enjoy turning unclear problems into useful products, from the interface people interact with to the APIs, data models, and application logic behind it.
+I’m a full-stack software developer based in Canada. I enjoy turning unclear problems into useful products, from the interface people interact with to the APIs, data models, and application logic behind it.
 
 My strongest work sits at the intersection of thoughtful product design and dependable engineering. I care about readable code, practical trade-offs, and the small details that make software easier to use and maintain.
 
